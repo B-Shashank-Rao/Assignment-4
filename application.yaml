@@ -1,0 +1,15 @@
+spring:
+  application:
+     name: Bank Account Managament
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+       
+application:
+  title: Customer Service Request Application
+  description:  Customer Service Request pplication API reference for Developers
+  version: v0.0.1
+
+server:
+  port: 8081
+  
